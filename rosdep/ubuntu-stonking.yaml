@@ -1,0 +1,12 @@
+# Ubuntu ships the catkin_pkg module in the unsplit distribution package.
+python3-catkin-pkg-modules:
+  ubuntu:
+    stonking: [python3-catkin-pkg]
+python3-rosdistro-modules:
+  ubuntu:
+    stonking:
+      pip:
+        packages: [rosdistro]
+python3-vcstool:
+  ubuntu:
+    stonking: [vcstool]
