@@ -5605,6 +5605,7 @@ libopencv-core:
     jammy: [libopencv-core4.5d]
     noble: [libopencv-core406t64]
     resolute: [libopencv-core410]
+    stonking: [libopencv-core410]
 libopencv-core-dev:
   debian: [libopencv-core-dev]
   fedora: [opencv-devel]
@@ -5655,6 +5656,7 @@ libopencv-imgcodecs:
     jammy: [libopencv-imgcodecs4.5d]
     noble: [libopencv-imgcodecs406t64]
     resolute: [libopencv-imgcodecs410]
+    stonking: [libopencv-imgcodecs410]
 libopencv-imgcodecs-dev:
   debian: [libopencv-imgcodecs-dev]
   fedora: [opencv-devel]
@@ -5676,6 +5678,7 @@ libopencv-imgproc:
     jammy: [libopencv-imgproc4.5d]
     noble: [libopencv-imgproc406t64]
     resolute: [libopencv-imgproc410]
+    stonking: [libopencv-imgproc410]
 libopencv-imgproc-dev:
   arch: [opencv]
   debian: [libopencv-imgproc-dev]
